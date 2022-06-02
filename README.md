@@ -1,4 +1,4 @@
-## <div align="center">Olá eu Israel, mas pode me chamar de Rael, atualmente sou desenvolvedor fullstack</div>
+## <div align="center">Olá!👋🏾 me chamo Israel, mas pode me chamar de Rael</div>
 
 <div align="center">
   <a href="https://github.com/raelz">
