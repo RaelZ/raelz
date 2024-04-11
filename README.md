@@ -1,6 +1,6 @@
 # Hi there 👋🏾, I'm RaelZ:
-I'm currently work on Cogna
-
+I'm currently fullstack developer on Cogna
+In my free time I am an enthusiast of new technologies
 
 ## Socials Links:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iraellz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raelz) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@iRaelZ) 
