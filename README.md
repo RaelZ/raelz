@@ -1,5 +1,5 @@
 # Hi there 👋🏾, I'm RaelZ:
-I'm currently fullstack developer on Cogna
+I'm currently fullstack developer on Cogna<br />
 In my free time I am an enthusiast of new technologies
 
 ## Socials Links:
